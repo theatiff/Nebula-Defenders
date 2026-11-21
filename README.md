@@ -122,7 +122,7 @@ For questions, suggestions, or feedback, feel free to connect with me.
 
 ## Disclaimer
 
-This project is provided for educational and entertainment purposes only. Use it at your own risk. All third-party assets belong to their respective owners.
+This project is provided for educational and entertainment purposes only. Use it at your own risk. All third-party assets belong to their respective owners..
 
 ---
 
