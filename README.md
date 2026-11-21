@@ -82,7 +82,7 @@ git clone https://github.com/theatiff/NEBULA_DEFENDERS.git
 ### 2. Navigate to the Project Folder
 
 ```bash
-cd NEBULA_DEFENDERS
+cd Nebula-Defenders
 ```
 
 ### 3. Install Dependencies
