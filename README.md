@@ -44,7 +44,14 @@ Sounds/        sound effects and music
 Font/          Monogram font
 tools/         script that generated the sprites and sounds
 ```
- 
+
+ 🏆 Scoring System
+
+Destroying alien enemies earns points based on their type.
+
+Destroying the mystery ship awards 500 points.
+
+Your best score is saved in highscore.txt.
 
 ## License
 
