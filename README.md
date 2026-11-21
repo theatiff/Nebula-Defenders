@@ -48,7 +48,7 @@ tools/         script that generated the sprites and sounds
 
 ## License
 
-This project is licensed under the MIT License 2.0. You are free to use, modify, and distribute this project according to the license terms.
+This project is licensed under the MIT license. You are free to use, modify, and distribute this project according to the license terms.
 
 See the [LICENSE](LICENSE) and [NOTICE](NOTICE) files for details.
 
