@@ -76,7 +76,7 @@ NEBULA_DEFENDERS/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/theatiff/NEBULA_DEFENDERS.git
+git clone https://github.com/theatiff/Nebula-Defenders.git
 ```
 
 ### 2. Navigate to the Project Folder
