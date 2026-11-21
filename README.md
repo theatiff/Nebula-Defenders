@@ -126,6 +126,3 @@ This project is provided for educational and entertainment purposes only. Use it
 
 ---
 
-**Developed by ORCU**
-
-⭐ If you enjoy the game, consider giving this repository a star!
