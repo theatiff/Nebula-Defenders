@@ -45,10 +45,26 @@ Font/          Monogram font
 tools/         script that generated the sprites and sounds
 ```
  
-## Credits
-- Sprites, sound effects and music: created for this project (see `tools/make_assets.py`).
-  
-  
+
 ## License
-Released under the MIT License. See [LICENSE](LICENSE).
- 
+
+This project is licensed under the MIT License 2.0. You are free to use, modify, and distribute this project according to the license terms.
+
+See the [LICENSE](LICENSE) and [NOTICE](NOTICE) files for details.
+
+## Author
+
+**Atif Khan**
+Specialization in Artificial Intelligence and Machine Learning
+
+## Find Me Online
+For questions, suggestions, or feedback, feel free to connect with me.
+
+* **Portfolio:** [Webspace](https://theatif.netlify.app/)
+* **GitHub:** [Atif Khan](https://github.com/theatiff/)
+
+## Disclaimer
+
+This Project is developed for educational and learning purposes. The predictions are estimates and should not be treated as guaranteed student results.
+
+---
