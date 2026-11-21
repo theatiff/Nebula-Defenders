@@ -103,21 +103,29 @@ python main.py
 - Destroying the mystery ship awards **500 points**.
 - Your best score is saved in `highscore.txt`.
 
-## 🎯 Objective
+## License
 
-Survive as long as possible, destroy alien invaders, protect your spaceship, and achieve the highest score!
+This project is licensed under the MIT license. You are free to use, modify, and distribute this project according to the license terms.
 
-## 📜 License
+See the [LICENSE](LICENSE) and [NOTICE](NOTICE) files for details.
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## Author
 
-## 🙏 Credits
+**Atif Khan**
+Specialization in Artificial Intelligence and Machine Learning
 
-- Game graphics, sound effects, and music were created for this project.
-- Font: Monogram by datagoblin (CC0 / Public Domain).
+## Find Me Online
+For questions, suggestions, or feedback, feel free to connect with me.
+
+* **Portfolio:** [Webspace](https://theatif.netlify.app/)
+* **GitHub:** [Atif Khan](https://github.com/theatiff/)
+
+## Disclaimer
+
+This project is provided for educational and entertainment purposes only. Use it at your own risk. All third-party assets belong to their respective owners.
 
 ---
 
-**Developed by ORCUS**
+**Developed by ORCU**
 
 ⭐ If you enjoy the game, consider giving this repository a star!
